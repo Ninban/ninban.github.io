@@ -1,0 +1,36 @@
+{
+  "name": "Trackers by Ninban",
+  "packages": [
+    {
+      "author": "Ninban",
+      "name": "ALTTPR Entrance Randomizer Map Tracker",
+      "flags": [
+        "map",
+        "pins",
+        "chathud"
+      ],
+      "game_name": "A Link to the Past Randomizer",
+      "version": "1.0.0.0",
+      "uid": "alttpr_entrance_ninban",
+      "variants": [
+        {
+          "name": "standard",
+          "flags": [
+            "map",
+            "pins",
+            "chathud"
+          ]
+        },
+        {
+          "name": "keysanity",
+          "flags": [
+            "map",
+            "pins",
+            "chathud"
+          ]
+        }
+      ],
+      "link": "https://ninban.github.io/emotracker/alttpr_entrance_ninban.zip"
+    }
+  ]
+}
