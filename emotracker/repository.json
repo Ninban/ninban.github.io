@@ -14,7 +14,7 @@
       "uid": "alttpr_entrance_ninban",
       "variants": [
         {
-          "name": "standard",
+          "name": "Standard",
           "flags": [
             "map",
             "pins",
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "name": "keysanity",
+          "name": "Keysanity",
           "flags": [
             "map",
             "pins",
