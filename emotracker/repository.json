@@ -31,18 +31,6 @@
         }
       ],
       "link": "https://ninban.github.io/emotracker/alttpr_entrance_ninban.zip"
-    },
-    {
-      "author": "Ninban",
-      "name": "Super Metroid and ALTTP Randomizer - v10.2",
-      "flags": [
-        "map",
-        "pins"
-      ],
-      "game_name": "Super Metroid + LTTP Randomizer",
-      "version": "2.0",
-      "uid": "smalttprando_gilgatex",
-      "link": "https://ninban.github.io/emotracker/smalttprando_gilgatex.zip"
     }
   ]
 }
